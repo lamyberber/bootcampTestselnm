@@ -1,0 +1,8 @@
+pom\LoginAmazon.class
+test\BaseTest.class
+utils\Common.class
+pom\NavigationAmazonHome.class
+pom\URLValidations.class
+com\TCS\ProjectStatment\RunCucumberTest.class
+utils\SeleniumUtils.class
+pom\Mobiles.class
